@@ -32,7 +32,7 @@ const clases = [
     },
     {
         NombreProfe:"CAROLINA OLAYA",
-        Link:"https://us04web.zoom.us/j/6992446645?pwd=Z0xZZkZiVjJaTVdXZ1VuaHo3cDlXZz09",
+        Link:"https://us05web.zoom.us/j/3780839641?pwd=bktUc0sxaGlsTXVwV21ONFdiaUg2Zz09",
         Imgage:"",
     },{
         NombreProfe:"ALEJANDRO MENDIETA",
