@@ -59,6 +59,11 @@ const clases = [
         Link:"https://us04web.zoom.us/j/7100870736?pwd=OXBCdnk1eEtIbXpBMnVyMGIxTWhKZz09",
         Imgage:"",
     },
+    {
+        NombreProfe:"PATRICIA HERNANDEZ",
+        Link:"https://us05web.zoom.us/j/3686208001?pwd=dG5Bb3VETXFzZVQ3OTNJelNKVk5xQT09",
+        Imgage:"",
+    }
 
 
 
