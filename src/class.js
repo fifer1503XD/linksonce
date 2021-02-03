@@ -39,6 +39,28 @@ const clases = [
         Link:"https://us04web.zoom.us/j/9265618556?pwd=WWhaSHNic3I2ei93RUYxVnp6Y1lVQT09",
         Imgage:"",
     },
+    {
+        NombreProfe:"PAOLA SANABRIA",
+        Link:"https://us05web.zoom.us/j/9904703018?pwd=YUdJRnkvbW85RGcyamc0MVd5OFJuQT09",
+        Imgage:"",
+    },
+    {
+        NombreProfe:"XIMENA SARMIENTO",
+        Link:"https://us04web.zoom.us/j/7130249558?pwd=VUNaSjdXS0paUjdjSjUycm8xMFdnQT09",
+        Imgage:"",
+    },
+    {
+        NombreProfe:"CATALINA HERNANDEZ",
+        Link:"https://us04web.zoom.us/j/6322148544?pwd=MmQ0RWdXSDh4WmNONlJxNEV6MFdodz09",
+        Imgage:"",
+    },
+    {
+        NombreProfe:"DANIELA TOPAGA",
+        Link:"https://us04web.zoom.us/j/7100870736?pwd=OXBCdnk1eEtIbXpBMnVyMGIxTWhKZz09",
+        Imgage:"",
+    },
+
+
 
     ]
     
